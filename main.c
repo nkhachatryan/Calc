@@ -1,5 +1,5 @@
 /*
-Errors:
+Ошибки:
 Error		'TCCR0' undeclared (first use in this function)	GccApplication6	C:\Users\nhac3\Documents\Atmel Studio\7.0\GccApplication6\GccApplication6\main.c	54
 Error		'TIMSK' undeclared (first use in this function)	GccApplication6	C:\Users\nhac3\Documents\Atmel Studio\7.0\GccApplication6\GccApplication6\main.c	57
 Error		recipe for target 'main.o' failed	GccApplication6	C:\Users\nhac3\Documents\Atmel Studio\7.0\GccApplication6\GccApplication6\Debug\Makefile	76
